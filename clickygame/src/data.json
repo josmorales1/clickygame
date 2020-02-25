@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/arsenal.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/chelsea.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/everton.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/leicester.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/liverpool.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/mancity.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/manutd.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/palace.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/tottenham.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/southampton.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/watford.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/westham.jpg",
+        "clicked": false
+    }
+]
